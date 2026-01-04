@@ -1,0 +1,254 @@
+[
+  {
+    "name": "Hearty Clam Chowder",
+    "ingredients": "Fresh Milk, Tabantha Wheat, Goat Butter, Hearty Blueshell Snail",
+    "hearts": "full",
+    "effect": "3 temporary maximum hearts",
+    "price": 60,
+    "notes": "This recipe only works with the Hearty Blueshell Snail, any other snails  will result in a different dish"
+  },
+  {
+    "name": "Hearty Seafood Rice Balls",
+    "ingredients": "Fresh Milk, Tabantha Wheat, Goat Butter, Hearty Blueshell Snail",
+    "hearts": "full",
+    "effect": "3 temporary maximum hearts",
+    "price": 60,
+    "notes": "This happened when using the Hearty Clam Chowder recipe. (Be careful not to  put in rice instead of wheat. They're very similar.)"
+  },
+  {
+    "name": "Hearty Seafood Rice Balls",
+    "ingredients": "Hylian Rice, Hearty Salmon\u00A0(4)",
+    "hearts": "full",
+    "effect": "16 temporary maximum hearts",
+    "notes": "17 extra hearts if made from 11:30-12:00 during bloodmoon."
+  },
+  {
+    "name": "Hearty Veggie Rice Balls",
+    "ingredients": "Hearty Radish\u00A0(4), Hylian Rice",
+    "hearts": "full",
+    "effect": "12 temporary maximum hearts",
+    "price": 100,
+    "notes": "If you use four Big Hearty Radish instead, it will result in a full  recovery and 20 temporary hearts."
+  },
+  {
+    "name": "Hearty Fried Wild Greens",
+    "ingredients": "Hearty Radish",
+    "hearts": "full",
+    "effect": "3 temporary maximum hearts",
+    "price": 20
+  },
+  {
+    "name": "Hearty Fried Wild Greens",
+    "ingredients": "Hearty Radish\u00A0(4)",
+    "hearts": "full",
+    "effect": "12 temporary maximum hearts",
+    "price": 150
+  },
+  {
+    "name": "Hearty Fruit and Mushroom Mix",
+    "ingredients": "Hearty Durian, Hearty Truffle",
+    "hearts": "full",
+    "effect": "5 temporary maximum hearts",
+    "price": 40
+  },
+  {
+    "name": "Hearty Meat Skewer",
+    "ingredients": "Hearty Durian, Raw Meat",
+    "hearts": "full",
+    "effect": "4 temporary maximum hearts",
+    "price": 50
+  },
+  {
+    "name": "Hearty Seafood Skewer",
+    "ingredients": "Hearty Blueshell Snail",
+    "hearts": "full",
+    "effect": "3 temporary maximum hearts",
+    "price": 30,
+    "notes": "5 Snails = 15 temporary hearts, 16 if cooked between 11:30-12:00 on a  bloodmoon"
+  },
+  {
+    "name": "Hearty Mushroom Skewer",
+    "ingredients": "Hearty Truffle",
+    "hearts": "full",
+    "effect": "1 temporary maximum heart",
+    "price": 10
+  },
+  {
+    "name": "Hearty Mushroom Skewer",
+    "ingredients": "Hearty Durian, Hearty Truffle, Big Hearty Truffle",
+    "hearts": "full",
+    "effect": "9 temporary maximum hearts"
+  },
+  {
+    "name": "Hearty Meat and Mushroom Skewer",
+    "ingredients": "Hearty Truffle, Raw Prime Meat",
+    "hearts": "full",
+    "effect": "1 temporary maximum hearts",
+    "price": 40
+  },
+  {
+    "name": "Hearty Omelet",
+    "ingredients": "Hearty Truffle, Bird Egg",
+    "hearts": "full",
+    "effect": "1 temporary maximum heart",
+    "price": 20
+  },
+  {
+    "name": "Hearty Simmered Fruit",
+    "ingredients": "Hearty Durian",
+    "hearts": "full",
+    "effect": "4 temporary maximum hearts",
+    "price": 30,
+    "notes": "Each Durian adds an extra 4 temporary hearts for a maximum of 20."
+  },
+  {
+    "name": "Hearty Salmon Meuniére",
+    "ingredients": "Hearty Salmon, Tabantha Wheat, Goat Butter",
+    "hearts": "full",
+    "effect": "4 temporary maximum hearts"
+  },
+  {
+    "name": "Hearty Steamed Meat",
+    "ingredients": "Hearty Truffle, Raw Prime Meat, Hearty Radish",
+    "hearts": "full",
+    "effect": "4 temporary maximum hearts",
+    "price": 60
+  },
+  {
+    "name": "Hearty Steamed Meat",
+    "ingredients": "Hearty Truffle\u00A0(2), Raw Prime Meat, Hearty Radish\u00A0(2)",
+    "hearts": "full",
+    "effect": "8 temporary maximum hearts",
+    "price": 120
+  },
+  {
+    "name": "Hearty Steamed Meat",
+    "ingredients": "Hearty Radish\u00A0(4), Raw Gourmet Meat",
+    "hearts": "full",
+    "effect": "12 temporary maximum hearts",
+    "price": 190
+  },
+  {
+    "name": "Hearty Steamed Meat",
+    "ingredients": "Hearty Durian\u00A0(3), Hearty Radish, Raw Gourmet Meat",
+    "hearts": "full",
+    "effect": "15 temporary maximum hearts",
+    "price": 250
+  },
+  {
+    "name": "Hearty Steamed Meat",
+    "ingredients": "Big Hearty Radish\u00A0(2), Hearty Durian, Raw Gourmet Meat",
+    "hearts": "full",
+    "effect": "15 temporary maximum"
+  },
+  {
+    "name": "Hearty Steamed Meat",
+    "ingredients": "Big Hearty Radish\u00A0(3), Hearty Durian, Raw Prime Meat",
+    "hearts": "full",
+    "effect": "20 temporary maximum hearts",
+    "price": 210
+  },
+  {
+    "name": "Hearty Steamed Meat",
+    "ingredients": "Big Hearty Radish\u00A0(4), Raw Prime Meat",
+    "hearts": "full",
+    "effect": "20 temporary maximum hearts",
+    "price": 210
+  },
+  {
+    "name": "Hearty Salt-Grilled Prime Meat",
+    "ingredients": "Hearty Truffle, Hearty Radish\u00A0(2), Raw Prime Meat, Rock Salt",
+    "hearts": "full",
+    "effect": "7 temporary maximum hearts",
+    "price": 110
+  },
+  {
+    "name": "Hearty Salt-Grilled Prime Meat",
+    "ingredients": "Hearty Radish\u00A0(3), Raw Prime Meat, Rock Salt",
+    "hearts": "full",
+    "effect": "9 temporary maximum hearts",
+    "price": 120
+  },
+  {
+    "name": "Hearty Salt-Grilled Prime Meat",
+    "ingredients": "Hearty Durian, Hearty Radish\u00A0(2), Raw Prime Meat, Rock Salt",
+    "hearts": "full",
+    "effect": "11 temporary maximum hearts",
+    "price": 140
+  },
+  {
+    "name": "Hearty Steamed Fish",
+    "ingredients": "Palm Fruit\u00A0(2), Hearty Radish\u00A0(2), Hyrule Bass",
+    "hearts": "full",
+    "effect": "7 temporary maximum hearts",
+    "price": 60
+  },
+  {
+    "name": "Hearty Steamed Fish",
+    "ingredients": "Hearty Blueshell Snail, Big Hearty Radish, Hearty Truffle",
+    "hearts": "full",
+    "effect": "9 temporary maximum hearts",
+    "price": 90
+  },
+  {
+    "name": "Hearty Steamed Fish",
+    "ingredients": "Hearty Durian\u00A0(2), Big Hearty Radish, Hearty Blueshell Snail\u00A0(2)",
+    "hearts": "full",
+    "effect": "19 temporary maximum hearts",
+    "price": 190
+  },
+  {
+    "name": "Hearty Milk",
+    "ingredients": "Big Hearty Radish\u00A0(4), Milk",
+    "hearts": "full",
+    "effect": "9 temporary maximum hearts",
+    "price": 100
+  },
+  {
+    "name": "Hearty Seafood Fried Rice",
+    "ingredients": "Hylian Rice, Rock Salt, Hearty Blueshell Snail\u00A0(2)",
+    "hearts": "full",
+    "effect": "6 temporary maximum hearts",
+    "notes": "You can probably replace the two blueshell snails with any seafood to get a  different effect"
+  },
+  {
+    "name": "Hearty Gourmet Meat and Seafood Fry",
+    "ingredients": "Hearty Durian, Big Hearty Radish, Raw Gourmet Meat, Hearty Bass, Hearty Blueshell Snail",
+    "hearts": "full",
+    "effect": "15 temporary maximum hearts"
+  },
+  {
+    "name": "Hearty Meaty Rice Balls",
+    "ingredients": "Hearty Durian, Big Hearty Radish, Raw Gourmet Meat, Hylian Rice, Hearty Blueshell Snail",
+    "hearts": "full",
+    "effect": "13 temporary maximum hearts",
+    "price": 180
+  },
+  {
+    "name": "Hearty Monster Rice Balls",
+    "ingredients": "Hearty Durian, Monster Extract, Hylian Rice, Rock Salt",
+    "hearts": "full",
+    "effect": "5 temporary maximum hearts",
+    "notes": "Monster Extract causes a gamble. Possible to have only 1 extra heart."
+  },
+  {
+    "name": "Hearty Simmered Fruit",
+    "ingredients": "Hearty Durian\u00A0(5)",
+    "hearts": "full",
+    "effect": "20 temporary maximum hearts",
+    "price": 210
+  },
+  {
+    "name": "Hearty Fish Pie",
+    "ingredients": "Hearty Salmon, Tabantha Wheat, Goat Butter, Rock Salt",
+    "hearts": "full",
+    "effect": "4 temporary maximum hearts",
+    "price": 50
+  },
+  {
+    "name": "Hearty Fish Skewer",
+    "ingredients": "Hearty Bass",
+    "hearts": "full",
+    "effect": "2 temporary maximum hearts"
+  }
+]

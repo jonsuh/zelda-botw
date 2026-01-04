@@ -1,0 +1,168 @@
+[
+  {
+    "name": "Sneaky Fried Wild Greens",
+    "ingredients": "Silent Princess\u00A0(3), Fairy, Shard of Farosh's Horn",
+    "hearts": 22.75,
+    "duration": "30:00",
+    "strength": "H"
+  },
+  {
+    "name": "Sneaky Fried Wild Greens",
+    "ingredients": "Silent Princess\u00A0(5)",
+    "hearts": 10,
+    "price": 140,
+    "duration": "10:00",
+    "strength": "H"
+  },
+  {
+    "name": "Sneaky Mushroom Skewer",
+    "ingredients": "Silent Shroom\u00A0(5)",
+    "hearts": 5,
+    "price": 50,
+    "duration": "10:00",
+    "strength": "H"
+  },
+  {
+    "name": "Sneaky Steamed Fish",
+    "ingredients": "Silent Princess, Silent Shroom\u00A0(2), Sneaky River Snail\u00A0(2)",
+    "hearts": 8,
+    "price": 80,
+    "duration": "10:00",
+    "strength": "H"
+  },
+  {
+    "name": "Sneaky Veggie Rice Balls",
+    "ingredients": "Hylian Rice, Silent Princess\u00A0(4)",
+    "hearts": 10,
+    "price": 120,
+    "duration": "9:00",
+    "strength": "H"
+  },
+  {
+    "name": "Sneaky Meat Skewer",
+    "ingredients": "Silent Princess\u00A0(3), Raw Meat, Raw Bird Drumstick",
+    "hearts": 10,
+    "price": 130,
+    "duration": "7:00",
+    "strength": "H"
+  },
+  {
+    "name": "Sneaky Steamed Mushrooms",
+    "ingredients": "Silent Shroom, Blue Nightshade\u00A0(4)",
+    "hearts": 1,
+    "price": 60,
+    "duration": "10:00",
+    "strength": "M"
+  },
+  {
+    "name": "Sneaky Mushroom Skewer",
+    "ingredients": "Silent Shroom\u00A0(4)",
+    "hearts": 4,
+    "price": 30,
+    "duration": "8:00",
+    "strength": "M"
+  },
+  {
+    "name": "Sneaky Mushroom Skewer",
+    "ingredients": "Silent Shroom\u00A0(3)",
+    "hearts": 3,
+    "price": 20,
+    "duration": "6:00",
+    "strength": "M"
+  },
+  {
+    "name": "Sneaky Meat Skewer",
+    "ingredients": "Silent Princess\u00A0(2), Raw Meat, Raw Bird Drumstick, Acorn",
+    "hearts": 9,
+    "price": 110,
+    "duration": "5:50",
+    "strength": "M"
+  },
+  {
+    "name": "Sneaky Seafood Meuniere",
+    "ingredients": "Sneaky River Snail, Tabantha Wheat, Goat Butter, Fresh Milk",
+    "hearts": 5,
+    "price": 40,
+    "duration": "10:40",
+    "strength": "L"
+  },
+  {
+    "name": "Sneaky Veggie Rice Balls",
+    "ingredients": "Hylian Rice, Blue Nightshade\u00A0(4)",
+    "hearts": 2,
+    "price": 60,
+    "duration": "9:00",
+    "strength": "L"
+  },
+  {
+    "name": "Sneaky Steamed Mushrooms",
+    "ingredients": "Silent Shroom, Blue Nightshade\u00A0(3)",
+    "hearts": 1,
+    "price": 40,
+    "duration": "8:00",
+    "strength": "L"
+  },
+  {
+    "name": "Sneaky Steamed Mushrooms",
+    "ingredients": "Silent Shroom, Blue Nightshade\u00A0(2)",
+    "hearts": 4,
+    "price": 30,
+    "duration": "6:00",
+    "strength": "L"
+  },
+  {
+    "name": "Sneaky Steamed Fish",
+    "ingredients": "Silent Shroom, Blue Nightshade, Sneaky River Snail",
+    "hearts": 3,
+    "price": 30,
+    "duration": "6:00",
+    "strength": "L"
+  },
+  {
+    "name": "Sneaky Steamed Mushrooms",
+    "ingredients": "Silent Shroom, Blue Nightshade",
+    "hearts": 3,
+    "price": 20,
+    "duration": "4:00",
+    "strength": "L"
+  },
+  {
+    "name": "Sneaky Mushroom Skewer",
+    "ingredients": "Silent Shroom\u00A0(2)",
+    "hearts": 2,
+    "price": 10,
+    "duration": "4:00",
+    "strength": "L"
+  },
+  {
+    "name": "Sneaky Mushroom Skewer",
+    "ingredients": "Silent Shroom, Hylian Shroom",
+    "hearts": 2,
+    "price": 10,
+    "duration": "2:30",
+    "strength": "L"
+  },
+  {
+    "name": "Sneaky Mushroom Skewer",
+    "ingredients": "Silent Shroom",
+    "hearts": 1,
+    "price": 10,
+    "duration": "2:00",
+    "strength": "L"
+  },
+  {
+    "name": "Sneaky Seafood Skewer",
+    "ingredients": "Sneaky River Snail",
+    "hearts": 2,
+    "price": 10,
+    "duration": "2:00",
+    "strength": "L"
+  },
+  {
+    "name": "Sneaky Fried Wild Greens",
+    "ingredients": "Blue Nightshade",
+    "price": 10,
+    "duration": "2:00",
+    "strength": "L"
+  }
+]

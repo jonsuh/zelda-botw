@@ -1,0 +1,56 @@
+[
+  {
+    "name": "Chilly Fruit and Mushroom Mix",
+    "ingredients": "Chillshroom\u00A0(3), Hydromelon, Shard of Farosh's Horn",
+    "hearts": 7,
+    "duration": "30:00",
+    "strength": "M"
+  },
+  {
+    "name": "Chilly Veggie Rice Balls",
+    "ingredients": "Hylian Rice, Cool Safflina\u00A0(4)",
+    "hearts": 2,
+    "duration": "11:00",
+    "strength": "L"
+  },
+  {
+    "name": "Chilly Steamed Mushrooms",
+    "ingredients": "Cool Safflina\u00A0(3), Hylian Shroom\u00A0(2)",
+    "duration": "8:30",
+    "strength": "L"
+  },
+  {
+    "name": "Chilly Fruit Pie",
+    "ingredients": "Hydromelon, Tabantha Wheat, Cane Sugar, Goat Butter",
+    "hearts": 3,
+    "duration": "6:10",
+    "strength": "L"
+  },
+  {
+    "name": "Chilly Mushroom Risotto",
+    "ingredients": "Chillshroom, Hylian Rice, Goat Butter, Rock Salt",
+    "hearts": 3,
+    "duration": "5:50",
+    "strength": "L"
+  },
+  {
+    "name": "Chilly Salt-Grilled Prime Meat",
+    "ingredients": "Cool Safflina, Raw Prime Meat, Rock Salt",
+    "duration": "4:00",
+    "strength": "L"
+  },
+  {
+    "name": "Chilly Steamed Fish",
+    "ingredients": "Hylian Shroom, Cool Safflina, Hyrule Bass",
+    "duration": "3:30",
+    "strength": "L"
+  },
+  {
+    "name": "Chilly Simmered Fruit",
+    "ingredients": "Hydromelon\u00A0(4), Monster Extract",
+    "hearts": "?",
+    "duration": "30:00 or 10:00",
+    "strength": "L-M",
+    "notes": "Recipe sometimes makes low level for 30 min., or mid level for 10 min, also restores a few hearts"
+  }
+]

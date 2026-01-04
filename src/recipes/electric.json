@@ -1,0 +1,187 @@
+[
+  {
+    "name": "Electro Fruit and Mushroom Mix",
+    "ingredients": "Voltfruit\u00A0(3), Zapshroom, Shard of Farosh's Horn",
+    "hearts": 7,
+    "duration": "30:00",
+    "price": 50,
+    "strength": "H"
+  },
+  {
+    "name": "Electro Fish Skewer",
+    "ingredients": "Voltfin Trout\u00A0(2), Fairy\u00A0(2), Shard of [Dragon]'s Horn",
+    "hearts": 27.75,
+    "duration": "30:00",
+    "strength": "H"
+  },
+  {
+    "name": "Electro Simmered Fruit",
+    "ingredients": "Voltfruit\u00A0(4), Monster Extract",
+    "hearts": 4,
+    "duration": "30:00",
+    "strength": "H",
+    "notes": "Long-lasting"
+  },
+  {
+    "name": "Electro Fruit and Mushroom Mix",
+    "ingredients": "Voltfruit\u00A0(4), Zapshroom",
+    "hearts": 5,
+    "duration": "17:30",
+    "strength": "H"
+  },
+  {
+    "name": "Electro Mushroom Skewer",
+    "ingredients": "Zapshroom\u00A0(5)",
+    "hearts": 5,
+    "duration": "12:30",
+    "strength": "H"
+  },
+  {
+    "name": "Electro Mushroom Skewer",
+    "ingredients": "Zapshroom\u00A0(4)",
+    "hearts": 4,
+    "duration": "10:00",
+    "strength": "H"
+  },
+  {
+    "name": "Electro Meat and Seafood Fry",
+    "ingredients": "Voltfin Trout\u00A0(3), Raw Meat\u00A0(2)",
+    "hearts": 10,
+    "duration": "8:30",
+    "strength": "H"
+  },
+  {
+    "name": "Electro Prime Meat and Seafood Fry",
+    "ingredients": "Voltfruit, Zapshroom, Voltfin Trout , Raw Meat\u00A0(2)",
+    "hearts": 10,
+    "duration": "8:30",
+    "strength": "H",
+    "notes": "May randomly provide 13:30 minutes of protection"
+  },
+  {
+    "name": "Electro Mushroom Skewer",
+    "ingredients": "Zapshroom\u00A0(3)",
+    "hearts": 3,
+    "duration": "7:30",
+    "strength": "H"
+  },
+  {
+    "name": "Electro Veggie Rice Balls",
+    "ingredients": "Hylian Rice, Electric Safflina\u00A0(4)",
+    "hearts": 2,
+    "duration": "11:00",
+    "strength": "M"
+  },
+  {
+    "name": "Electro Meat and Seafood Fry",
+    "ingredients": "Voltfin Trout, Raw Meat, Zapshroom",
+    "hearts": 5,
+    "duration": "5:30",
+    "strength": "M"
+  },
+  {
+    "name": "Electro Mushroom Skewer",
+    "ingredients": "Zapshroom\u00A0(2)",
+    "hearts": 2,
+    "duration": "5:00",
+    "strength": "M"
+  },
+  {
+    "name": "Electro Omelet",
+    "ingredients": "Electric Saffina\u00A0(2), Acorn, Bird Egg\u00A0(2)",
+    "hearts": 5,
+    "duration": "7:40",
+    "strength": "L"
+  },
+  {
+    "name": "Electro Meat Skewer",
+    "ingredients": "Voltfruit, Zapshroom, Raw Prime Meat, Raw Bird Drumstick\u00A0(2)",
+    "hearts": 9,
+    "duration": "6:30",
+    "strength": "L"
+  },
+  {
+    "name": "Electro Fruit and Mushroom Mix",
+    "ingredients": "Zapshroom\u00A0(4), Apple",
+    "hearts": 2,
+    "duration": "4:30",
+    "strength": "L"
+  },
+  {
+    "name": "Electro Fruit and Mushroom Mix",
+    "ingredients": "Zapshroom\u00A0(3), Apple",
+    "hearts": 2,
+    "duration": "4:00",
+    "strength": "L"
+  },
+  {
+    "name": "Electro Fruit and Mushroom Mix",
+    "ingredients": "Zapshroom\u00A0(3), Apple\u00A0(2)",
+    "hearts": 3,
+    "duration": "4:00",
+    "strength": "L"
+  },
+  {
+    "name": "Electro Fruit and Mushroom Mix",
+    "ingredients": "Zapshroom\u00A0(2), Apple\u00A0(3)",
+    "hearts": 4,
+    "duration": "3:30",
+    "strength": "L"
+  },
+  {
+    "name": "Electro Fruit and Mushroom Mix",
+    "ingredients": "Zapshroom\u00A0(2), Apple",
+    "hearts": 2,
+    "duration": "3:30",
+    "strength": "L"
+  },
+  {
+    "name": "Electro Fruit and Mushroom Mix",
+    "ingredients": "Zapshroom\u00A0(2), Apple\u00A0(2)",
+    "hearts": 3,
+    "duration": "3:30",
+    "strength": "L"
+  },
+  {
+    "name": "Electro Meat Skewer",
+    "ingredients": "Raw Meat, Voltfruit",
+    "hearts": 3,
+    "duration": "3:00",
+    "strength": "L"
+  },
+  {
+    "name": "Electro Fruit and Mushroom Mix",
+    "ingredients": "Zapshroom, Apple",
+    "hearts": 2,
+    "duration": "3:00",
+    "strength": "L"
+  },
+  {
+    "name": "Electro Fruit and Mushroom Mix",
+    "ingredients": "Zapshroom, Apple\u00A0(2)",
+    "hearts": 3,
+    "duration": "3:00",
+    "strength": "L"
+  },
+  {
+    "name": "Electro Fruit and Mushroom Mix",
+    "ingredients": "Zapshroom, Apple\u00A0(3)",
+    "hearts": 4,
+    "duration": "3:00",
+    "strength": "L"
+  },
+  {
+    "name": "Electro Fruit and Mushroom Mix",
+    "ingredients": "Zapshroom, Apple\u00A0(4)",
+    "hearts": 5,
+    "duration": "3:00",
+    "strength": "L"
+  },
+  {
+    "name": "Electro Mushroom Skewer",
+    "ingredients": "Zapshroom",
+    "hearts": 1,
+    "duration": "2:30",
+    "strength": "L"
+  }
+]

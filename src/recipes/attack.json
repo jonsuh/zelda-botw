@@ -1,0 +1,183 @@
+[
+  {
+    "name": "Mighty Crab Risotto",
+    "ingredients": "Hylian Rice, Goat Butter, Rock Salt, Razorclaw Crab",
+    "hearts": 4,
+    "price": 40,
+    "duration": "4:10",
+    "strength": "L"
+  },
+  {
+    "name": "Mighty Crab Stir-Fry",
+    "ingredients": "Razorclaw Crab, Goron Spice",
+    "hearts": 2,
+    "price": 30,
+    "duration": "2:20",
+    "strength": "L"
+  },
+  {
+    "name": "Mighty Herb Sautè",
+    "ingredients": "Mighty Porgy\u00A0(2), Mighty Thistle, Bird Egg, Goron Spice",
+    "hearts": 6,
+    "duration": "5:30",
+    "strength": "H"
+  },
+  {
+    "name": "Mighty Porgy Meunière",
+    "ingredients": "Tabantha Wheat, Goat Butter, Mighty Porgy\u00A0(3)",
+    "hearts": 8,
+    "price": 100,
+    "duration": "4:50",
+    "strength": "H"
+  },
+  {
+    "name": "Mighty Veggie Rice Balls",
+    "ingredients": "Hylian Rice, Mighty Thistle\u00A0(4)",
+    "hearts": 2,
+    "price": 70,
+    "duration": "4:20",
+    "strength": "L"
+  },
+  {
+    "name": "Mighty Fried Bananas",
+    "ingredients": "Mighty Bananas, Tabantha Wheat, Cane Sugar",
+    "hearts": 3,
+    "price": 30,
+    "duration": "3:10",
+    "strength": "L"
+  },
+  {
+    "name": "Mighty Fried Wild Greens",
+    "ingredients": "Mighty Bananas, Razorshroom, Hyrule Herb, Mighty Thistle",
+    "hearts": 4,
+    "price": 50,
+    "duration": "3:00",
+    "strength": "M"
+  },
+  {
+    "name": "Mighty Simmered Fruit",
+    "ingredients": "Mighty Bananas",
+    "hearts": 1,
+    "price": 10,
+    "duration": "0:50",
+    "strength": "L"
+  },
+  {
+    "name": "Mighty Simmered Fruit",
+    "ingredients": "Mighty Bananas\u00A0(2)",
+    "hearts": 2,
+    "price": 20,
+    "duration": "1:40",
+    "strength": "L"
+  },
+  {
+    "name": "Mighty Simmered Fruit",
+    "ingredients": "Mighty Bananas\u00A0(3)",
+    "hearts": 3,
+    "price": 40,
+    "duration": "2:30",
+    "strength": "M"
+  },
+  {
+    "name": "Mighty Simmered Fruit",
+    "ingredients": "Mighty Bananas\u00A0(4)",
+    "hearts": 4,
+    "price": 50,
+    "duration": "3:20",
+    "strength": "H"
+  },
+  {
+    "name": "Mighty Simmered Fruit",
+    "ingredients": "Mighty Bananas\u00A0(5)",
+    "hearts": 5,
+    "price": 70,
+    "duration": "4:10",
+    "strength": "H"
+  },
+  {
+    "name": "Mighty Simmered Fruit",
+    "ingredients": "Mighty Bananas\u00A0(4), Monster Extract",
+    "hearts": 0.25,
+    "duration": "30:00",
+    "strength": "H",
+    "notes": "Must be cooked while wearing the Dark Link costume at night."
+  },
+  {
+    "name": "Mighty Seafood Skewer",
+    "ingredients": "Bird Egg, Razorclaw Crab",
+    "hearts": 4,
+    "price": 20,
+    "duration": "2:20",
+    "strength": "L"
+  },
+  {
+    "name": "Mighty Seafood Skewer",
+    "ingredients": "Mighty Bananas, Mighty Thistle, Mighty Carp, Razorclaw Crab",
+    "hearts": 5,
+    "price": 70,
+    "duration": "3:20",
+    "strength": "H"
+  },
+  {
+    "name": "Mighty Steamed Fish",
+    "ingredients": "Bird Egg, Hyrule Herb, Razorclaw Crab",
+    "hearts": 6,
+    "price": 30,
+    "duration": "2:50",
+    "strength": "L",
+    "notes": "Razorclaw Crab can be swapped out for Mighty Porgy"
+  },
+  {
+    "name": "Mighty Seafood Rice Balls",
+    "ingredients": "Mighty Carp\u00A0(2), Razorshroom\u00A0(2), Hylian Rice",
+    "hearts": 8,
+    "price": 100,
+    "duration": "4:20",
+    "strength": "H"
+  },
+  {
+    "name": "Mighty Seafood Rice Balls",
+    "ingredients": "Hylian Rice, Razorclaw Crab\u00A0(4)",
+    "hearts": 6,
+    "duration": "4:20",
+    "strength": "H"
+  },
+  {
+    "name": "Mighty Gourmet Spiced Meat Skewer",
+    "ingredients": "Mighty Bananas, Razorshroom, Raw Gourmet Meat, Goron Spice, Rock Salt",
+    "hearts": 11,
+    "duration": "4:40",
+    "strength": "L"
+  },
+  {
+    "name": "Mighty Meat and Seafood Fry",
+    "ingredients": "Mighty Bananas\u00A0(3), Mighty Carp, Raw Meat",
+    "hearts": 7,
+    "duration": "3:50",
+    "strength": "H"
+  },
+  {
+    "name": "Mighty Prime Meat and Seafood Fry",
+    "ingredients": "Mighty Bananas, Mighty Thistle, Raw Prime Meat, Mighty Porgy, Razorclaw Crab",
+    "hearts": 9,
+    "price": 120,
+    "duration": "3:50",
+    "strength": "H"
+  },
+  {
+    "name": "Mighty Meaty Rice Balls",
+    "ingredients": "Mighty Bananas, Mighty Thistle, Raw Prime Meat, Mighty Porgy, Hylian Rice",
+    "hearts": 8,
+    "price": 110,
+    "duration": "4:00",
+    "strength": "H"
+  },
+  {
+    "name": "Mighty Steamed Fruit",
+    "ingredients": "Mighty Bananas\u00A0(2), Mighty Thistle, Fresh Milk",
+    "hearts": 3,
+    "price": 50,
+    "duration": "3:50",
+    "strength": "H"
+  }
+]

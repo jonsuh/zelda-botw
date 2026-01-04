@@ -1,0 +1,151 @@
+@font-face {
+  font-family: emoji;
+  src: local("Apple Color Emoji"),
+       local("Android Emoji"),
+       local("Segoe UI Emoji"),
+       local("Segoe UI Symbol"),
+       local("Noto Color Emoji"),
+       local("Noto Emoji");
+  unicode-range: U+1F300-1F5FF, U+1F600-1F64F, U+1F680-1F6FF, U+2600-26FF;
+}
+
+:root {
+  --ground-background-color: light-dark(#eee, #101010);
+  --surface-background-color: light-dark(#fff, #181818);
+  --heading-font-color: light-dark(#222, #eee);
+  --body-font-color: light-dark(#444, #ccc);
+  --subheading-font-color: light-dark(#777, #999);
+
+  --attack-color: light-dark(#607d8b, #607d8b60);
+  --cold-color: light-dark(#2196f3, #2196f375);
+  --defense-color: light-dark(#795548, #79554880);
+  --electric-color: light-dark(#ffeb3b, #ffeb3b75);
+  --elixirs-color: light-dark(#3f51b5, #3f51b575);
+  --hearts-color: light-dark(#f44336, #f4433675);
+  --hearts-max-color: light-dark(#e91e63, #e91e6375);
+  --heat-color: light-dark(#ff9800, #ff980075);
+  --speed-color: light-dark(#9c27b0, #9c27b075);
+  --stealth-color: light-dark(#000, #ffffff75);
+  --stamina-color: light-dark(#4caf50, #4caf5075);
+}
+
+body {
+  color-scheme: light dark;
+  font-family: -apple-system, BlinkMacSystemFont, ".SFNSDisplay-Regular", Roboto, Helvetica, Arial, sans-serif;
+  color: var(--body-font-color);
+  background-color: var(--ground-background-color);
+  margin: 0;
+}
+
+.filter {
+  font-size: 1rem;
+  background-color: var(--ground-background-color);
+  padding: 8px;
+  position: sticky;
+  top: 0;
+}
+
+.filter__icons {
+  border-top-left-radius: 3px;
+  border-top-right-radius: 3px;
+  display: grid;
+  grid-gap: 0;
+  grid-auto-flow: column;
+  overflow: auto;
+  overflow-y: none;
+  -webkit-overflow-scrolling: touch;
+}
+
+.filter input[type="checkbox"] {
+  display: none;
+}
+
+.filter label,
+.filter button {
+  background-color: var(--surface-background-color);
+  padding: 8px 11px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  cursor: pointer;
+}
+
+.filter button {
+  font: inherit;
+  border: 0;
+  margin: 0;
+}
+
+.filter label:first-of-type {
+  border-top-left-radius: 3px;
+}
+.filter button {
+  border-top-right-radius: 3px;
+}
+
+.filter svg {
+  display: block;
+}
+
+.filter input[type="checkbox"]:checked + label svg path {
+  fill: #fff;
+}
+.filter input[type="checkbox"]:checked + label svg circle {
+  stroke: #fff;
+}
+.filter input[id$="attack"]:checked + label {
+  background-color: var(--attack-color);
+}
+.filter input[id$="cold"]:checked + label {
+  background-color: var(--cold-color);
+}
+.filter input[id$="defense"]:checked + label {
+  background-color: var(--defense-color);
+}
+.filter input[id$="electric"]:checked + label {
+  background-color: var(--electric-color);
+}
+.filter input[id$="elixirs"]:checked + label {
+  background-color: var(--elixirs-color);
+}
+.filter input[id$="hearts"]:checked + label {
+  background-color: var(--hearts-color);
+}
+.filter input[id$="heartsMax"]:checked + label {
+  background-color: var(--hearts-max-color);
+}
+.filter input[id$="heat"]:checked + label {
+  background-color: var(--heat-color);
+}
+.filter input[id$="speed"]:checked + label {
+  background-color: var(--speed-color);
+}
+.filter input[id$="stealth"]:checked + label {
+  background-color: var(--stealth-color);
+}
+.filter input[id$="stamina"]:checked + label {
+  background-color: var(--stamina-color);
+}
+
+.filter__text input[type="text"] {
+  font: inherit;
+  font-size: 1rem;
+  border: 0;
+  border-radius: 0;
+  border-bottom-left-radius: 3px;
+  border-bottom-right-radius: 3px;
+  box-sizing: border-box;
+  width: 100%;
+  padding: 8px;
+  margin: 0;
+  appearance: none;
+  text-size-adjust: none;
+}
+
+.cards-wrap {
+  padding: 0.5rem;
+  padding-top: 0;
+  display: grid;
+  grid-gap: 0.5rem;
+  grid-template-columns: repeat(auto-fit, minmax(280px, 1fr));
+}

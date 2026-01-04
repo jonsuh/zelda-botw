@@ -1,0 +1,122 @@
+[
+  {
+    "name": "Hasty Fruit and Mushroom Mix",
+    "ingredients": "Fleet-Lotus Seeds, Rushroom, Shard of Farosh's Horn",
+    "hearts": 7,
+    "duration": "30:00",
+    "strength": "H"
+  },
+  {
+    "name": "Hasty Fragrant Mushroom Sauté",
+    "ingredients": "Fleet-Lotus Seeds\u00A0(2), Swift Violet, Rushroom, Goron Spice",
+    "hearts": 3,
+    "duration": "5:30",
+    "strength": "H"
+  },
+  {
+    "name": "Hasty Fruit and Mushroom Mix",
+    "ingredients": "Fleet-Lotus Seeds\u00A0(3),, Rushroom x 2",
+    "hearts": 5,
+    "duration": "5:00",
+    "strength": "H"
+  },
+  {
+    "name": "Hasty Veggie Rice Balls",
+    "ingredients": "Hylian Rice, Swift Violet\u00A0(4)",
+    "hearts": 2,
+    "duration": "5:00",
+    "strength": "H"
+  },
+  {
+    "name": "Hasty Fruit and Mushroom Mix",
+    "ingredients": "Fleet-Lotus Seeds\u00A0(3),, Hylian Shroom x 2",
+    "hearts": 5,
+    "duration": "4:00",
+    "strength": "M"
+  },
+  {
+    "name": "Hasty Steamed Fruit",
+    "ingredients": "Fleet-Lotus Seeds, Fleet-Lotus Seeds, Swift Carrot",
+    "hearts": 3,
+    "duration": "3:00",
+    "strength": "M"
+  },
+  {
+    "name": "Hasty Veggie Cream Soup",
+    "ingredients": "Swift Carrot\u00A0(2), Milk, Rock Salt, Monster Extract",
+    "hearts": 3,
+    "duration": "11:20",
+    "strength": "L",
+    "notes": "Must be cooked while wearing the Dark Link costume."
+  },
+  {
+    "name": "Hasty Apple Pie",
+    "ingredients": "Cane Sugar, Apple, Fleet Lotus Seed, Goat Butter, Tabantha Wheat",
+    "hearts": 4,
+    "duration": "10:10",
+    "strength": "L"
+  },
+  {
+    "name": "Hasty Carrot Cake",
+    "ingredients": "Swift Carrot\u00A0(2), Tabantha Wheat, Goat Butter, Cane Sugar",
+    "hearts": 4,
+    "duration": "5:40",
+    "strength": "L"
+  },
+  {
+    "name": "Hasty Mushroom Skewer",
+    "ingredients": "Rushroom\u00A0(5)",
+    "hearts": 5,
+    "duration": "3:00",
+    "strength": "L"
+  },
+  {
+    "name": "Hasty Mushroom Skewer",
+    "ingredients": "Rushroom\u00A0(4)",
+    "hearts": 4,
+    "duration": "2:30",
+    "strength": "L"
+  },
+  {
+    "name": "Hasty Fried Wild Greens",
+    "ingredients": "Swift Carrot",
+    "hearts": 1,
+    "duration": "2:10",
+    "strength": "L"
+  },
+  {
+    "name": "Hasty Fish and Mushroom Skewer",
+    "ingredients": "Fleet-Lotus Seeds, Hylian Shroom, Hyrule Bass",
+    "hearts": 4,
+    "duration": "2:00",
+    "strength": "L"
+  },
+  {
+    "name": "Hasty Mushroom Skewer",
+    "ingredients": "Rushroom\u00A0(3)",
+    "hearts": 3,
+    "duration": "2:00",
+    "strength": "L"
+  },
+  {
+    "name": "Hasty Mushroom Skewer",
+    "ingredients": "Rushroom\u00A0(2)",
+    "hearts": 2,
+    "duration": "1:30",
+    "strength": "L"
+  },
+  {
+    "name": "Hasty Mushroom Skewer",
+    "ingredients": "Rushroom",
+    "hearts": 1,
+    "duration": "1:00",
+    "strength": "L"
+  },
+  {
+    "name": "Hasty Simmered Fruit",
+    "ingredients": "Fleet-Lotus Seeds\u00A0(4), Monster Extract",
+    "duration": "1:00 or 30:00",
+    "strength": "L-H",
+    "notes": "Restores four hearts and provides a low-level speed boost for 1:00 minute or Restores seven hearts and provides a high-level speed boost for 30:00 minutes. Use a Shard of a Dragon's Horn instead of the Monster Extract for a guaranteed high-level, 30 minute speed boost and 7 & 3/4 health recovery"
+  }
+]

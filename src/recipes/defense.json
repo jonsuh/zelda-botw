@@ -1,0 +1,227 @@
+[
+  {
+    "name": "Tough Fish and Mushroom Skewer",
+    "ingredients": "Hylian Shroom, Armored Carp",
+    "hearts": 3,
+    "price": 30,
+    "duration": "1:20",
+    "strength": "L"
+  },
+  {
+    "name": "Tough Seafood Skewer",
+    "ingredients": "Ironshell Crab\u00A0(5)",
+    "hearts": 6,
+    "duration": "4:10",
+    "strength": "H"
+  },
+  {
+    "name": "Tough Fried Wild Greens",
+    "ingredients": "Fortified Pumpkin",
+    "hearts": 1,
+    "price": 10,
+    "duration": "0:50",
+    "strength": "L"
+  },
+  {
+    "name": "Tough Veggie Rice Balls",
+    "ingredients": "Hylian Rice, Armoranth\u00A0(4)",
+    "hearts": 2,
+    "price": 70,
+    "duration": "4:20",
+    "strength": "L"
+  },
+  {
+    "name": "Tough Porgy Meunière",
+    "ingredients": "Tabantha Wheat, Goat Butter, Armored Porgy\u00A0(3)",
+    "hearts": 8,
+    "price": 100,
+    "duration": "4:50",
+    "strength": "H"
+  },
+  {
+    "name": "Tough Hot Buttered Apple",
+    "ingredients": "Apple, Fortified Pumpkin, Goat Butter",
+    "hearts": 3,
+    "price": 30,
+    "duration": "2:40",
+    "strength": "L"
+  },
+  {
+    "name": "Tough Meat-Stuffed Pumpkin",
+    "ingredients": "Fortified Pumpkin, Raw Bird Drumstick",
+    "hearts": 3,
+    "price": 30,
+    "duration": "1:20",
+    "strength": "L",
+    "notes": "Add various seasoning to increase duration and effect"
+  },
+  {
+    "name": "Tough Meaty Rice Balls",
+    "ingredients": "Ironshroom, Raw Meat, Hylian Rice",
+    "hearts": 5,
+    "price": 40,
+    "duration": "2:20",
+    "strength": "L"
+  },
+  {
+    "name": "Tough Milk",
+    "ingredients": "Fortified Pumpkin, Milk",
+    "hearts": 2,
+    "price": 20,
+    "duration": "2:10",
+    "strength": "L"
+  },
+  {
+    "name": "Tough Monster Soup",
+    "ingredients": "Fortified Pumpkin, Milk, Tabantha Wheat, Goat Butter, Monster Extract",
+    "hearts": 7,
+    "duration": "3:10",
+    "strength": "L"
+  },
+  {
+    "name": "Tough Mushroom Skewer",
+    "ingredients": "Ironshroom",
+    "hearts": 1,
+    "price": 10,
+    "duration": "0:50",
+    "strength": "L"
+  },
+  {
+    "name": "Tough Mushroom Skewer",
+    "ingredients": "Ironshroom\u00A0(2)",
+    "hearts": 2,
+    "price": 20,
+    "duration": "1:40",
+    "strength": "L"
+  },
+  {
+    "name": "Tough Mushroom Skewer",
+    "ingredients": "Ironshroom\u00A0(3)",
+    "hearts": 3,
+    "price": 40,
+    "duration": "2:30",
+    "strength": "M"
+  },
+  {
+    "name": "Tough Mushroom Skewer",
+    "ingredients": "Ironshroom\u00A0(4)",
+    "hearts": 4,
+    "price": 50,
+    "duration": "3:20",
+    "strength": "H"
+  },
+  {
+    "name": "Tough Mushroom Skewer",
+    "ingredients": "Ironshroom\u00A0(5)",
+    "hearts": 5,
+    "price": 70,
+    "duration": "4:10",
+    "strength": "H"
+  },
+  {
+    "name": "Tough Prime Meat and Rice Bowl",
+    "ingredients": "Ironshroom, Raw Prime Meat, Hylian Rice, Rock Salt",
+    "hearts": 6,
+    "price": 60,
+    "duration": "3:20",
+    "strength": "L"
+  },
+  {
+    "name": "Tough Steamed Meat",
+    "ingredients": "Armoranth, Raw Meat",
+    "hearts": 2,
+    "price": 30,
+    "duration": "1:20",
+    "strength": "L"
+  },
+  {
+    "name": "Tough Meaty Rice Balls",
+    "ingredients": "Armoranth, Fortified Pumpkin, Raw Bird Drumstick, Hylian Rice, Rock Salt",
+    "hearts": 5,
+    "price": 70,
+    "duration": "4:10",
+    "strength": "L"
+  },
+  {
+    "name": "Tough Fried Wild Greens",
+    "ingredients": "Armoranth, Fortified Pumpkin, Ironshroom, Armored Carp, Ironshell Crab",
+    "hearts": 6,
+    "price": 100,
+    "duration": "4:10",
+    "strength": "H"
+  },
+  {
+    "name": "Tough Steamed Mushrooms",
+    "ingredients": "Armoranth, Ironshroom",
+    "hearts": 1,
+    "price": 20,
+    "duration": "1:40",
+    "strength": "L"
+  },
+  {
+    "name": "Tough Steamed Mushrooms",
+    "ingredients": "Armoranth, Ironshroom\u00A0(2)",
+    "hearts": 2,
+    "price": 40,
+    "duration": "2:30",
+    "strength": "M"
+  },
+  {
+    "name": "Tough Steamed Mushrooms",
+    "ingredients": "Armoranth, Ironshroom\u00A0(3)",
+    "hearts": 3,
+    "price": 50,
+    "duration": "3:20",
+    "strength": "H"
+  },
+  {
+    "name": "Tough Mushroom Skewer",
+    "ingredients": "Ironshroom\u00A0(5)",
+    "hearts": 5,
+    "price": 70,
+    "duration": "4:10",
+    "strength": "H"
+  },
+  {
+    "name": "Tough Meat and Mushroom Skewer",
+    "ingredients": "Raw Meat, Ironshroom\u00A0(4)",
+    "price": 120,
+    "duration": "3:50",
+    "strength": "H"
+  },
+  {
+    "name": "Tough Prime Meat and Seafood Fry",
+    "ingredients": "Ironshroom, Armoranth, Raw Prime Meat, Armored Porgy, Ironshell Crab",
+    "hearts": 8,
+    "price": 120,
+    "duration": "3:50",
+    "strength": "H"
+  },
+  {
+    "name": "Tough Meat-Stuffed Pumpkin",
+    "ingredients": "Ironshroom, Armoranth, Fortified Pumpkin, Raw Prime Meat, Ironshell Crab",
+    "price": 110,
+    "duration": "3:50",
+    "strength": "H"
+  },
+  {
+    "name": "Tough Pumpkin Stew",
+    "ingredients": "Fortified Pumpkin, Fresh Milk, Tabantha Wheat, Goat Butter"
+  },
+  {
+    "name": "Tough Salt-Grilled Fish",
+    "ingredients": "Hylian Shroom, Fresh Milk, Rock Salt, Armored Carp\u00A0(2)",
+    "hearts": 6,
+    "price": 80,
+    "duration": "4:30",
+    "strength": "L"
+  },
+  {
+    "name": "Tough Salt-Grilled ~Fish",
+    "ingredients": "Ironshroom, Fresh Milk, Rock Salt, Armored Porgy\u00A0(2)",
+    "hearts": 6,
+    "price": 90,
+    "duration": "4:50",
+    "strength": "H"
+  }
+]

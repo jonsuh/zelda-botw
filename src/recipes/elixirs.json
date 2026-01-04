@@ -1,0 +1,187 @@
+[
+  {
+    "name": "Spicy Elixir",
+    "ingredients": "Sizzlewing Butterfly, Bokoblin Fang",
+    "effect": "Cold Resistance"
+  },
+  {
+    "name": "Spicy Elixir",
+    "ingredients": "Warm Darner, Monster Parts",
+    "effect": "Cold Resistance",
+    "duration": "9:20"
+  },
+  {
+    "name": "Spicy Elixir",
+    "ingredients": "Sunshroom, Warm Safflina, Summerwing Butterfly, Warm Darner, Red Lizalfos Tail",
+    "effect": "High-Level Warming Effect",
+    "duration": "13:10"
+  },
+  {
+    "name": "Energizing Elixir",
+    "ingredients": "Bokoblin Horn, Restless Cricket",
+    "effect": "Fully restore 1 stamina wheel"
+  },
+  {
+    "name": "Enduring Elixir",
+    "ingredients": "Bokoblin Horn, *Bokoblin Guts, Tireless Frog",
+    "effect": "Restores and temporarily extends stamina",
+    "notes": "heals 4-5x3, stamina extended 1/4-3/4"
+  },
+  {
+    "name": "Hearty Elixir",
+    "ingredients": "Hearty Lizard, Bokoblin Guts",
+    "effect": "Fully restore hearts & 5 temporarily maximum hearts"
+  },
+  {
+    "name": "Fireproof Elixir",
+    "ingredients": "Smotherwing Butterfly, Monster Parts",
+    "effect": "Fireproof Effect",
+    "duration": "4:20"
+  },
+  {
+    "name": "Fireproof Elixir",
+    "ingredients": "Smotherwing Butterfly\u00A0(4), Monster Guts/Tail",
+    "effect": "High Level Fireproof Effect",
+    "duration": "13:10"
+  },
+  {
+    "name": "Fireproof Elixir",
+    "ingredients": "Fireproof Lizard, Monster Parts",
+    "effect": "Fireproof Effect",
+    "duration": "6:10"
+  },
+  {
+    "name": "Hasty Elixir",
+    "ingredients": "Hightail Lizard, Monster Parts",
+    "effect": "Haste (Movement Speed)",
+    "notes": "You can get a free one from Sagessa at the Dueling Peaks Stable."
+  },
+  {
+    "name": "Hasty Elixir",
+    "ingredients": "Hightail Lizard, Bokoblin Horn",
+    "effect": "Low-Level Haste",
+    "duration": "2:10"
+  },
+  {
+    "name": "Hasty Elixir",
+    "ingredients": "Hot-Footed Frog, Monster Parts",
+    "effect": "Low-Level Haste",
+    "duration": "4:10"
+  },
+  {
+    "name": "Hasty Elixir",
+    "ingredients": "Hot-Footed Frog, Bokoblin Guts",
+    "effect": "low-Level Haste",
+    "duration": "9:10"
+  },
+  {
+    "name": "Hasty Elixir",
+    "ingredients": "Hot-Footed Frog\u00A0(3), Lizalfos Talon",
+    "effect": "Mid-Level Haste",
+    "duration": "11:40"
+  },
+  {
+    "name": "Hasty Elixir",
+    "ingredients": "Hot-Footed Frog\u00A0(3), Lizalfos Horn",
+    "effect": "Mid-Level Haste",
+    "duration": "5:20"
+  },
+  {
+    "name": "Hasty Elixir",
+    "ingredients": "Hot-Footed Frog, Hightail Lizard, Bokoblin Guts",
+    "effect": "Mid-Level Haste",
+    "duration": "5:10"
+  },
+  {
+    "name": "Hasty Elixir",
+    "ingredients": "Hightail Lizard, Bokoblin Guts",
+    "effect": "Mid-Level Haste",
+    "duration": "4:10"
+  },
+  {
+    "name": "Hasty Elixir",
+    "ingredients": "Hot-Footed Frog\u00A0(4), Bokoblin Guts",
+    "effect": "High-Level Haste",
+    "duration": "7:10"
+  },
+  {
+    "name": "Hasty Elixir",
+    "ingredients": "Hot-Footed Frog\u00A0(3), Hightail Lizard, Bokoblin Guts",
+    "effect": "High-Level Haste",
+    "duration": "7:10"
+  },
+  {
+    "name": "Electro Elixir",
+    "ingredients": "Thunderwing Butterfly, Yellow Lizalfos Tail",
+    "effect": "Low-Level Electric Resist",
+    "duration": "5:40"
+  },
+  {
+    "name": "Electro Elixir",
+    "ingredients": "Thunderwing Butterfly, Electric Darner, Yellow Lizalfos Tail",
+    "effect": "Mid-Level Electric Resist",
+    "duration": "8:10"
+  },
+  {
+    "name": "Electro Elixir",
+    "ingredients": "Electric Darner\u00A0(2), Lizalfos Horn",
+    "effect": "Mid-Level Electric Resist",
+    "duration": "6:10"
+  },
+  {
+    "name": "Electro Elixir",
+    "ingredients": "Thunderwing Butterfly, Electric Darner, Yellow Lizalfos Tail, Electric Safflina, Yellow Chuchu Jelly",
+    "effect": "High-Level Electric Resist",
+    "duration": "12:30"
+  },
+  {
+    "name": "Sneaky Elixir",
+    "ingredients": "Keese Eyeball, Sunset Firefly, Silent Princess\u00A0(3)",
+    "effect": "High-level stealth increase",
+    "duration": "11:10",
+    "notes": "6 hearts healed"
+  },
+  {
+    "name": "Sneaky Elixir",
+    "ingredients": "Keese Eyeball, Sunset Firefly",
+    "effect": "Low-level stealth increase",
+    "duration": "5:10"
+  },
+  {
+    "name": "Sneaky Elixir",
+    "ingredients": "Sneaky River Snail, Sunset Firefly, Octorok Eyeball",
+    "effect": "Low-Level Stealth",
+    "duration": "5:50"
+  },
+  {
+    "name": "Sneaky Elixir",
+    "ingredients": "Sunset Firefly, Bokoblin Guts",
+    "effect": "Low-Level Stealth",
+    "duration": "5:10"
+  },
+  {
+    "name": "Sneaky Elixir",
+    "ingredients": "Sunset Firefly\u00A0(3), Bokoblin Fang, Octorok Tentacle",
+    "effect": "Low-Level Stealth",
+    "duration": "9:00"
+  },
+  {
+    "name": "Fairy Tonic",
+    "ingredients": "Fairy",
+    "effect": "Recovery Elixir",
+    "notes": "7 Hearts healing per fairy added. Can be added to anything for 7 hearts healing addition ( w/ Monster Extract not tested )."
+  },
+  {
+    "name": "Chilly Elixir",
+    "ingredients": "Hydromelon, Chillfin Trout, Cold Darmer, Icy Lizafos Tail\u00A0(2)",
+    "hearts": 3,
+    "effect": "High Level Cooling Effect",
+    "duration": "13:40"
+  },
+  {
+    "name": "Chilly Elixir",
+    "ingredients": "Chillshroom, Cool Safflina, Winterwing Butterfly, Cold Darner, Icy Lizalfos Tail",
+    "effect": "High Level Cooling Effect",
+    "duration": "18:10"
+  }
+]

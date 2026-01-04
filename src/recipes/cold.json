@@ -1,0 +1,176 @@
+[
+  {
+    "name": "Spicy Steamed Mushrooms",
+    "ingredients": "Sunshroom\u00A0(3), Warm Safflina, Shard of Farosh's Horn",
+    "hearts": 9,
+    "effect": "",
+    "duration": "30:00",
+    "strength": "M"
+  },
+  {
+    "name": "Spicy Pepper Steak",
+    "ingredients": "Spicy Pepper\u00A0(4), Raw Meat",
+    "hearts": 6,
+    "effect": "",
+    "duration": "10:30",
+    "strength": "L",
+    "notes": "Using Raw Prime Meat instead of Raw Meat will bring the heart restoration effect up to seven."
+  },
+  {
+    "name": "Spicy Mushroom Skewer",
+    "ingredients": "Sunshroom\u00A0(3)",
+    "hearts": 3,
+    "effect": "",
+    "duration": "7:30",
+    "strength": "M",
+    "notes": "Very easy-to-locate recipe as Sunshrooms are plentiful around Retsam Forest near the Hateno Tech Lab."
+  },
+  {
+    "name": "Spicy Mushroom Skewer",
+    "ingredients": "Sunshroom",
+    "hearts": 1,
+    "effect": "",
+    "duration": "2:30",
+    "strength": "L",
+    "notes": "Each Hylian Shroom added to the pot grants +1 Heart Restored and an additional +30 seconds of cold resist."
+  },
+  {
+    "name": "Spicy Fruit and Mushroom Mix",
+    "ingredients": "Hylian Shroom\u00A0(3), Spicy Pepper\u00A0(2)",
+    "hearts": 5,
+    "effect": "",
+    "duration": "6:30",
+    "strength": "L"
+  },
+  {
+    "name": "Spicy Meat and Mushroom Skewer",
+    "ingredients": "Acorn, Sunshroom, Raw Bird Drumstick",
+    "hearts": 4,
+    "effect": "",
+    "duration": "3:30",
+    "strength": "L"
+  },
+  {
+    "name": "Spicy Meat and Seafood Fry",
+    "ingredients": "Hyrule Bass, Raw Meat, Spicy Pepper",
+    "effect": "",
+    "duration": "3:30",
+    "strength": "L",
+    "notes": "This is the recipe from the Old Man's Diary. Add more Spicy Peppers to increase the duration."
+  },
+  {
+    "name": "Spicy Pepper Seafood",
+    "ingredients": "Hyrule Bass, Spicy Pepper",
+    "hearts": 3,
+    "effect": "",
+    "duration": "3:00",
+    "strength": "L"
+  },
+  {
+    "name": "Spicy Pepper Steak",
+    "ingredients": "Spicy Pepper, Raw Bird Drumstick",
+    "hearts": 3,
+    "effect": "",
+    "duration": "3:00",
+    "strength": "L"
+  },
+  {
+    "name": "Spicy Salt-Grilled Meat",
+    "ingredients": "Spicy Pepper, Raw Bird Drumstick, Rock Salt",
+    "hearts": 3,
+    "effect": "",
+    "duration": "4:00",
+    "strength": "L",
+    "notes": "You can use almost any meat for similar results."
+  },
+  {
+    "name": "Spicy Salt-Grilled Prime Meat",
+    "ingredients": "Spicy Pepper, Raw Prime Meat, Rock Salt",
+    "hearts": 4,
+    "effect": "",
+    "duration": "4:00",
+    "strength": "L"
+  },
+  {
+    "name": "Spicy Salt-Grilled Gourmet Meat",
+    "ingredients": "Spicy Pepper, Raw Prime Meat, Raw Gourmet Meat, Rock Salt",
+    "hearts": 13,
+    "effect": "",
+    "duration": "5:00"
+  },
+  {
+    "name": "Spicy Simmered Fruit",
+    "ingredients": "Apple, Spicy Pepper",
+    "hearts": 2,
+    "effect": "",
+    "duration": "3:00",
+    "strength": "L",
+    "notes": "Add more fruit or Spicy Peppers to increase duration and hearts restored."
+  },
+  {
+    "name": "Spicy Simmered Fruit",
+    "ingredients": "Spicy Peppers\u00A0(4), Monster Extract",
+    "hearts": 4,
+    "effect": "",
+    "duration": "10:00",
+    "strength": "L",
+    "notes": "Long-lasting"
+  },
+  {
+    "name": "Spicy Sauteed Peppers",
+    "ingredients": "Spicy Pepper",
+    "hearts": 1,
+    "effect": "",
+    "duration": "2:30",
+    "strength": "L"
+  },
+  {
+    "name": "Spicy Veggie Rice Balls",
+    "ingredients": "Hylian Rice, Warm Safflina\u00A0(4)",
+    "hearts": 2,
+    "effect": "",
+    "duration": "11:00",
+    "strength": "L"
+  },
+  {
+    "name": "Spicy Meaty Rice Balls",
+    "ingredients": "Raw Meat, Hylian Rice, Fresh Milk, Goat Butter, Spicy Pepper",
+    "hearts": 6,
+    "effect": "",
+    "duration": "6:40",
+    "strength": "L"
+  },
+  {
+    "name": "Spicy Monster Curry",
+    "ingredients": "Gourmet Meat, Hylian Rice, Goron Spice, Monster Extract, Spicy Pepper",
+    "hearts": 9,
+    "effect": "",
+    "duration": "11:30",
+    "strength": "M"
+  },
+  {
+    "name": "Spicy Sauteed Peppers",
+    "ingredients": "Spicy Pepper\u00A0(5)",
+    "hearts": 5,
+    "effect": "",
+    "duration": "12:30",
+    "strength": "L"
+  },
+  {
+    "name": "Spicy Fish Skewer",
+    "ingredients": "Sizzlefin Trout, Fairy\u00A0(3), [Dragon]'s Horn Shard",
+    "effect": "",
+    "duration": "30:00",
+    "strength": "M",
+    "notes": "Restore max health This recipe does involve a critical success (invoked by the dragon piece), which automatically goes towards boosting the effect strength. Using fewer fairies can cause this effect to shift to boosting health. Using a lesser dragon part can cause it to shift to boosting duration."
+  },
+  {
+    "name": "Spicy Fruit and Mushroom Mix",
+    "ingredients": "Spicy Pepper\u00A0(4), Sunshroom",
+    "hearts": 5,
+    "effect": "",
+    "duration": "12:30",
+    "strength": "M",
+    "notes": "Possibly the most easily obtained meal for medium-level cold resist."
+  }
+]

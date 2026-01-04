@@ -1,0 +1,116 @@
+.card .card__content {
+  border-left-width: 4px;
+  border-left-style: solid;
+}
+
+.card--attack .card__content {
+  border-color: var(--attack-color);
+}
+
+.card--cold .card__content {
+  border-color: var(--cold-color);
+}
+
+.card--defense .card__content {
+  border-color: var(--defense-color);
+}
+
+.card--electric .card__content {
+  border-color: var(--electric-color);
+}
+
+.card--elixirs .card__content {
+  border-color: var(--elixirs-color);
+}
+
+.card--hearts .card__content {
+  border-color: var(--hearts-color);
+}
+
+.card--hearts-max .card__content {
+  border-color: var(--hearts-max-color);
+}
+
+.card--heat .card__content {
+  border-color: var(--heat-color);
+}
+
+.card--speed .card__content {
+  border-color: var(--speed-color);
+}
+
+.card--stamina .card__content {
+  border-color: var(--stamina-color);
+}
+
+.card--stealth .card__content {
+  border-color: var(--stealth-color);
+}
+
+.card__content {
+  font-size: 0.9375rem;
+  background-color: var(--surface-background-color);
+  padding: 1rem;
+  border-radius: 3px;
+  box-shadow: 0 2px 6px rgba(0, 0, 0, 0.1);
+  display: grid;
+  grid-gap: 1rem;
+  grid-template-areas: "left right"
+                       "bottom bottom";
+}
+
+.card__left {
+  grid-area: left;
+}
+
+.card__right {
+  text-align: right;
+  grid-area: right;
+}
+
+.card__bottom {
+  grid-area: bottom;
+}
+
+.card-name {
+  font-size: 1rem;
+  font-weight: 700;
+  color: var(--heading-font-color);
+  margin-top: 0;
+  margin-bottom: 4px;
+}
+
+.card-effect {
+  font-size: 0.9375em;
+  color: var(--subheading-font-color);
+}
+
+.card-notes {
+  font-size: 0.9375em;
+  color: var(--subheading-font-color);
+}
+
+.card-ingredients {
+  width: 100%;
+  padding-left: 8px;
+  margin-top: 1rem;
+  margin-bottom: 0;
+  list-style-position: outside;
+}
+
+.card-ingredients--columns {
+  columns: 2;
+  column-gap: 1.5rem;
+}
+
+.card-type {
+  font-family: emoji;
+  font-size: 1rem;
+  margin-bottom: 8px;
+}
+
+.has-icon:after {
+  font-family: emoji;
+  content: attr(data-icon);
+  margin-left: 4px;
+}

@@ -1,0 +1,321 @@
+[
+  {
+    "name": "Monster Cake",
+    "ingredients": "Monster Extract, Tabantha Wheat, Cane Sugar, Goat Butter",
+    "hearts": 0.25,
+    "notes": "Restores 5 hearts during the Blood Moon."
+  },
+  {
+    "name": "Monster Curry",
+    "ingredients": "Hylian Rice, Goron Spice, Monster Extract",
+    "hearts": 0.25,
+    "notes": "Other additional combinations and effects untested."
+  },
+  {
+    "name": "Fragrant Mushroom Saute",
+    "ingredients": "Hylian Shroom, Goron Spice",
+    "hearts": 1,
+    "notes": "Use more mushrooms and other types of mushrooms to increase the number of hearts it restores or to give it special effects."
+  },
+  {
+    "name": "Mushroom Skewer",
+    "ingredients": "Hyrule Shroom",
+    "hearts": 1,
+    "notes": "Use other or more Mushrooms to restore more hearts or add special effects."
+  },
+  {
+    "name": "Salt-Grilled Mushrooms",
+    "ingredients": "Hylian Shroom, Rock Salt",
+    "hearts": 1,
+    "notes": "Use different mushrooms for varying effects."
+  },
+  {
+    "name": "Simmered Fruit",
+    "ingredients": "Apple",
+    "hearts": 1,
+    "notes": "Use other fruits or more fruits to restore more hearts or add special effects."
+  },
+  {
+    "name": "Milk",
+    "ingredients": "Fresh Milk",
+    "hearts": 1.5,
+    "notes": "Add extra ingredients to increase the hearts restored or add a special effect."
+  },
+  {
+    "name": "Fish Skewer",
+    "ingredients": "Hyrule Bass",
+    "hearts": 2,
+    "notes": "Use other fish or more fish to increase Hearts Restored, or to add special effects."
+  },
+  {
+    "name": "Fried Wild Greens",
+    "ingredients": "Hyrule Herb",
+    "hearts": 2,
+    "notes": "Use other vegetables or more vegetables to increase Hearts Restored, or to add special effects."
+  },
+  {
+    "name": "Fruit and Mushroom Mix",
+    "ingredients": "Apple, Hylian Shroom",
+    "hearts": 2,
+    "notes": "Add other Fruits and Mushrooms to increase Hearts Restored, or to add special effects."
+  },
+  {
+    "name": "Herb Saute",
+    "ingredients": "Hyrule Herbs, Goron Spice",
+    "hearts": 2,
+    "notes": "Use different herbs or more herbs for different effects."
+  },
+  {
+    "name": "Hot Buttered Apple",
+    "ingredients": "Apple, Goat Butter",
+    "hearts": 2
+  },
+  {
+    "name": "Omelet",
+    "ingredients": "Bird Egg",
+    "hearts": 2,
+    "notes": "Add more ingredients to increase the number of hearts restored and add various effects."
+  },
+  {
+    "name": "Salt-Grilled Fish",
+    "ingredients": "Rock Salt, Hyrule Bass",
+    "hearts": 2
+  },
+  {
+    "name": "Salt-Grilled Greens",
+    "ingredients": "Hyrule Herb, Rock Salt",
+    "hearts": 2,
+    "notes": "Use more or other vegetables to increase the hearts restored or to give it a special effect."
+  },
+  {
+    "name": "Salt-Grilled Meat",
+    "ingredients": "Raw Bird Drumstick, Rock Salt",
+    "hearts": 2,
+    "notes": "Use different meats to restores more hearts."
+  },
+  {
+    "name": "Spiced Meat Skewer",
+    "ingredients": "Raw Meat, Goron Spice",
+    "hearts": 2,
+    "notes": "Use more meat to give the dish more hearts."
+  },
+  {
+    "name": "Wheat Bread",
+    "ingredients": "Tabantha Wheat, Rock Salt",
+    "hearts": 2
+  },
+  {
+    "name": "Apple Pie",
+    "ingredients": "Apple, Tabantha Wheat, Cane Sugar, Goat Butter",
+    "hearts": 3,
+    "price": 30,
+    "notes": "Tabantha Wheat, Cane Sugar & Goat Butter obtainable in Rito Village."
+  },
+  {
+    "name": "Egg Pudding",
+    "ingredients": "Fresh Milk, Bird Egg, Cane Sugar",
+    "hearts": 3,
+    "notes": "Add extra ingredients to give it special effects or to increase the hearts restored"
+  },
+  {
+    "name": "Fish and Mushroom Skewer",
+    "ingredients": "Hylian Shroom, Hyrule Bass",
+    "hearts": 3,
+    "notes": "Use other or more fish and mushrooms to increase hearts restored or add special effects."
+  },
+  {
+    "name": "Fruit Pie",
+    "ingredients": "Wildberry, Tabantha Wheat, Cane Sugar, Goat Butter",
+    "hearts": 3,
+    "price": 30,
+    "notes": "Swap Wildberry for other fruit (such as Palm Fruit) for different results. Adding another fruit amplifies the healing effect. Hearts and price listed are with one Wildberry."
+  },
+  {
+    "name": "Meat and Mushroom Skewer",
+    "ingredients": "Raw Meat, Hylian Shroom",
+    "hearts": 3,
+    "notes": "Use other or more Meat and Mushrooms to increase hearts restored or add special effects."
+  },
+  {
+    "name": "Mushroom risotto",
+    "ingredients": "Hylian Shroom, Hylian Rice, Goat Butter, Rock Salt",
+    "hearts": 3,
+    "notes": "Use other or more mushrooms to increase hearts restored. Switch the Mushrooms for Hearty Salmon to get a fish lover's dish."
+  },
+  {
+    "name": "Nutcake",
+    "ingredients": "Acorn, Tabantha Wheat, Cane Sugar, Goat Butter",
+    "hearts": 3,
+    "notes": "The Acorn can be swapped for Chickaloo Tree Nuts"
+  },
+  {
+    "name": "Pepper Steak",
+    "ingredients": "Spicy Pepper, Mighty Thistle, Raw Bird Drumstick",
+    "hearts": 3
+  },
+  {
+    "name": "Steamed Fruit",
+    "ingredients": "Apple, Hyrule Herb",
+    "hearts": 3,
+    "notes": "Use other or more fruit and veg to increase hearts restored or add special effects."
+  },
+  {
+    "name": "Steamed Mushrooms",
+    "ingredients": "Hyrule Shroom, Hyrule Herb",
+    "hearts": 3,
+    "notes": "Using different herbs and mushrooms will change the number of hearts restored as well as possibly adding special effects."
+  },
+  {
+    "name": "Egg Tart",
+    "ingredients": "Bird Egg, Tabantha Wheat, Cane Sugar, Goat Butter",
+    "hearts": 4
+  },
+  {
+    "name": "Fried Egg and Rice",
+    "ingredients": "Hylian Rice, Bird Egg",
+    "hearts": 4
+  },
+  {
+    "name": "Glazed Veggies",
+    "ingredients": "Courser Bee Honey, Cool Safflina",
+    "hearts": 4,
+    "notes": "Switch the Cool Safflina for Hyrule Herbs to give the meal the Energizing Effect."
+  },
+  {
+    "name": "Meat and Rice Bowl",
+    "ingredients": "Raw Meat, Hylian Rice, Rock Salt",
+    "hearts": 4,
+    "notes": "Use different types of meat to increase the hearts restored"
+  },
+  {
+    "name": "Meat and Seafood Fry",
+    "ingredients": "Hyrule Bass, Raw Bird Drumstick",
+    "hearts": 4,
+    "notes": "Use other or more Meat and Fish to increase hearts restored or add special effects."
+  },
+  {
+    "name": "Meaty Rice Balls",
+    "ingredients": "Raw Meat, Hylian Rice",
+    "hearts": 4,
+    "notes": "Use different types of meat to increase the number of hearts restored."
+  },
+  {
+    "name": "Seafood Meunière",
+    "ingredients": "Tabantha Wheat, Goat Butter, Hyrule Bass",
+    "hearts": 4,
+    "notes": "Use other types of fish or more fish to increase hearts restored or add a special effect"
+  },
+  {
+    "name": "Steamed Fish",
+    "ingredients": "Hyrule Herb, Hyrule Bass",
+    "hearts": 4,
+    "notes": "Use other or more Fish and Vegetables to increase hearts restored or give it a special effect."
+  },
+  {
+    "name": "Steamed Meat",
+    "ingredients": "Hyrule Herb, Raw Meat",
+    "hearts": 4,
+    "notes": "Use other or more \\Meat and Vegetables to increase hearts restored or give it a special effect."
+  },
+  {
+    "name": "Fruit cake",
+    "ingredients": "Apple, Wildberry, Tabantha Wheat, Cane Sugar",
+    "hearts": 5,
+    "notes": "Always use two different fruits in this cake. You may switch the apples or Wildberries for other fruits to add special effects."
+  },
+  {
+    "name": "Meat Stew",
+    "ingredients": "Raw Meat, Fresh Milk, Tabantha Wheat, Goat Butter",
+    "hearts": 5,
+    "notes": "Use more or other types of meat to increase hearts restored"
+  },
+  {
+    "name": "Plain Crepe",
+    "ingredients": "Fresh Milk, Bird Egg, Tabantha Wheat, Cane Sugar",
+    "hearts": 5,
+    "notes": "Add honey to get an Energizing Honeyed Crepe"
+  },
+  {
+    "name": "Curry Pilaf",
+    "ingredients": "Hylian Rice\u00A0(3), Goron Spice, Goat Butter",
+    "hearts": 6,
+    "notes": "You can use any number of these ingredients, this is just the best recipe for heart recovery."
+  },
+  {
+    "name": "Glazed Mushrooms",
+    "ingredients": "Endura Shroom, Courser Bee Honey",
+    "hearts": 6,
+    "notes": "Switch the Endura Shroom for a Hylian Shroom or a Stamella Shroom to give it a stamina recovery effect (Energizing glazed mushrooms)."
+  },
+  {
+    "name": "Apple Pie",
+    "ingredients": "Apple\u00A0(2), Tabantha Wheat, Cane Sugar, Goat Butter",
+    "hearts": 7,
+    "price": 50,
+    "notes": "Tabantha Wheat, Cane Sugar & Goat Butter obtainable in Rito Village."
+  },
+  {
+    "name": "Carrot Cake",
+    "ingredients": "Swift carrot, Endura carrot, Tabantha Wheat, Cane sugar, Goat butter",
+    "hearts": 7,
+    "notes": "Use only one type of carrot to add a special effect."
+  },
+  {
+    "name": "Glazed Meat",
+    "ingredients": "Spicy Pepper, Raw Meat, Courser Bee Honey",
+    "hearts": 7,
+    "notes": "Use only Raw meat and Courser Bee Honey to give the meal the Energizing Effect."
+  },
+  {
+    "name": "Vegetable Curry",
+    "ingredients": "Swift Carrot, Endura Carrot, Hylian Rice, Goron Spice",
+    "hearts": 7,
+    "notes": "This dish only seems to work with carrots"
+  },
+  {
+    "name": "Porgy Meunière",
+    "ingredients": "Tabantha Wheat, Goat Butter, Armored Porgy, Mighty Porgy\u00A0(2)",
+    "hearts": 8,
+    "notes": "Use only one type of porgy for different effects."
+  },
+  {
+    "name": "Poultry Pilaf",
+    "ingredients": "Raw Bird Drumstick\u00A0(2), Hylian Rice, Bird Egg, Goat Butter",
+    "hearts": 8,
+    "notes": "Switch the drumsticks for any poultry meat to restores more hearts."
+  },
+  {
+    "name": "Seafood Paella",
+    "ingredients": "Hylian Rice, Goat Butter, Rock Salt, Mighty Porgy, Hearty Blueshell Snail",
+    "hearts": 12
+  },
+  {
+    "name": "Creamy Heart Soup",
+    "ingredients": "Fresh Milk, Voltfruit, Hydromelon, Hearty Radish\u00A0(2)",
+    "hearts": 13
+  },
+  {
+    "name": "Meat Pie",
+    "ingredients": "Tabantha Wheat, Goat Butter, Rock Salt, Raw Gourmet Meat\u00A0(2)",
+    "hearts": 14,
+    "price": 110,
+    "notes": "You can use any raw meat or poultry, but gourmet meat restores the most hearts."
+  },
+  {
+    "name": "Gourmet Meat Curry",
+    "ingredients": "Raw Gourmet Meat\u00A0(3), Hylian Rice, Goron Spice",
+    "hearts": 20,
+    "notes": "You can use any Raw Meat except poultry to result in the same dish, but this restores the most hearts."
+  },
+  {
+    "name": "Gourmet Poultry Curry",
+    "ingredients": "Raw Whole Bird\u00A0(3), Hylian Rice, Goron Spice",
+    "hearts": 20,
+    "notes": "You can use any Raw Poultry to result in essentially the same dish, but with fewer restored hearts."
+  },
+  {
+    "name": "Meat Skewer",
+    "ingredients": "Any Raw Meat",
+    "notes": "Restores twice the number of hearts as the raw meat used."
+  }
+]

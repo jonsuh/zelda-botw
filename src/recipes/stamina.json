@@ -1,0 +1,138 @@
+[
+  {
+    "name": "Enduring Fried Wild Greens",
+    "ingredients": "Endura Carrot",
+    "hearts": 4,
+    "effect": "Overfill stamina",
+    "notes": "5 Endura Carrots overfills for 2 stamina wheels"
+  },
+  {
+    "name": "Enduring Meat Curry",
+    "ingredients": "Endura Carrot, Raw Meat, Hylian Rice, Goron Spice",
+    "hearts": 8,
+    "effect": "Overfill stamina"
+  },
+  {
+    "name": "Enduring Milk",
+    "ingredients": "Enduring Carrot, Fresh Milk",
+    "hearts": 5,
+    "effect": "Overfill stamina"
+  },
+  {
+    "name": "Energizing Seafood Skewer",
+    "ingredients": "Bright-eyed Crab\u00A0(5)",
+    "hearts": 5,
+    "effect": "3 stamina wheels"
+  },
+  {
+    "name": "Enduring Carrot Cake",
+    "ingredients": "Endura Carrot\u00A0(2), Tabantha Wheat, Goat Butter, Cane Sugar"
+  },
+  {
+    "name": "Enduring Salt-Grilled Prime Meat",
+    "ingredients": "Endura Carrot, Raw Prime Meat, Rock Salt",
+    "hearts": 11,
+    "effect": "Overfill stamina",
+    "notes": "Each Endura Carrot added will increase the stamina overfill"
+  },
+  {
+    "name": "Enduring Steamed Meat",
+    "ingredients": "Endura Carrot, Raw Prime Meat",
+    "hearts": 7,
+    "effect": "Overfill stamina"
+  },
+  {
+    "name": "Enduring Vegetable Curry",
+    "ingredients": "Endura Carrot, Hylian Rice, Goron Spice",
+    "hearts": 6,
+    "effect": "Overfill stamina"
+  },
+  {
+    "name": "Energizing Mushroom Skewer",
+    "ingredients": "Stamella Shroom",
+    "hearts": 1,
+    "effect": "Some stamina",
+    "notes": "Each Hylian shroom added will restore 1 additional heart"
+  },
+  {
+    "name": "Energizing Fish and Mushroom Skewer",
+    "ingredients": "Stamella Shroom, Hyrule Bass",
+    "hearts": 3,
+    "effect": "Some stamina"
+  },
+  {
+    "name": "Energizing Fish Skewer",
+    "ingredients": "Fresh Fish",
+    "effect": "Some stamina",
+    "notes": "Open flame"
+  },
+  {
+    "name": "Energizing Fish Skewer",
+    "ingredients": "Staminoka Bass",
+    "hearts": 2,
+    "effect": "Full stamina"
+  },
+  {
+    "name": "Energizing Salt-Grilled Fish",
+    "ingredients": "Staminoka Bass\u00A0(2), Stamella Shroom\u00A0(2), Rock Salt",
+    "hearts": 6,
+    "effect": "3 Stamina wheels"
+  },
+  {
+    "name": "Energizing Glazed Meat",
+    "ingredients": "Raw Meat, Courser Bee Honey",
+    "hearts": 6,
+    "effect": "Some stamina"
+  },
+  {
+    "name": "Energizing Honeyed Apple",
+    "ingredients": "Apple, Courser Bee Honey",
+    "hearts": 5,
+    "effect": "Some stamina"
+  },
+  {
+    "name": "Energizing Meaty Rice Balls",
+    "ingredients": "Raw Meat, Hylian Rice, Courser Bee Honey",
+    "hearts": 8,
+    "effect": "Most stamina"
+  },
+  {
+    "name": "Energizing Steamed Meat",
+    "ingredients": "Raw Meat, Hyrule Herb, Stamella Shroom",
+    "hearts": 5,
+    "effect": "Some stamina"
+  },
+  {
+    "name": "Enduring Steamed Meat",
+    "ingredients": "Endura Shroom\u00A0(2), Endura Carrot\u00A0(2), Raw Gourmet Meat",
+    "hearts": 21,
+    "effect": "Overfill stamina",
+    "notes": "One whole overfill wheel"
+  },
+  {
+    "name": "Enduring Steamed Mushrooms",
+    "ingredients": "Endura Shroom\u00A0(3), Endura Carrot\u00A0(2)",
+    "hearts": 14,
+    "effect": "Full stamina, overfill stamina",
+    "notes": "One whole overfill wheel"
+  },
+  {
+    "name": "Energizing Glazed Meat",
+    "ingredients": "Stamella Shroom, Raw Prime Meat, Courser Bee Honey, Rock Salt, Staminoka Bass",
+    "hearts": 9,
+    "effect": "1.75 stamina wheels",
+    "notes": "Does not overfill"
+  },
+  {
+    "name": "Energizing Seafood Rice Balls",
+    "ingredients": "Stamella Shroom, Staminoka Bass, Hylian Rice",
+    "hearts": 5,
+    "effect": "Some stamina"
+  },
+  {
+    "name": "Energizing Honey Crepe",
+    "ingredients": "Acorn, Tabantha Wheat, Courser Bee Honey, Butter, Cane Sugar",
+    "hearts": 5,
+    "effect": "Some stamina"
+  }
+]
